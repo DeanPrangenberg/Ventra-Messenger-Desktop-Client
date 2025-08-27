@@ -10,7 +10,7 @@ A modern, high-performance Qt-based desktop client for the **Ventra-Messenger** 
 
 ## 🌟 Key Features
 - **End-to-End Encryption**: Seamless integration with backend crypto layer (Double Ratchet, AES-256-GCM, X25519)  
-- **Cross-Platform**: Native C++/Qt application for Windows, Linux, and macOS  
+- **Cross-Platform**: Native C++/Qt application for Windows and Linux  
 - **Local Secure Storage**: SQLite3 + SQLCipher for caching and offline usage  
 - **Realtime Messaging**: Fast WebSocket communication with backend services  
 - **Lightweight & Fast**: Optimized C++17 client with low memory footprint  
