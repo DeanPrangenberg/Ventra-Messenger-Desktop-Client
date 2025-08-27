@@ -13,7 +13,6 @@ A modern, high-performance Qt-based desktop client for the **Ventra-Messenger** 
 - **Cross-Platform**: Native C++/Qt application for Windows and Linux  
 - **Local Secure Storage**: SQLite3 + SQLCipher for caching and offline usage  
 - **Realtime Messaging**: Fast WebSocket communication with backend services  
-- **Lightweight & Fast**: Optimized C++17 client with low memory footprint  
 
 ```mermaid
 graph TD
