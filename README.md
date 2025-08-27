@@ -4,7 +4,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Qt](https://img.shields.io/badge/Qt-6%2B-brightgreen)
 ![C++](https://img.shields.io/badge/C%2B%2B-17%2B-orange)
-![Cross-Platform](https://img.shields.io/badge/platform-win%20%7C%20linux%20%7C%20macos-lightgrey)
 
 A modern, high-performance Qt-based desktop client for the **Ventra-Messenger** with end-to-end encryption and full self-hosting capability.  
 
